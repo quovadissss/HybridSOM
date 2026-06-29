@@ -1,0 +1,52 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Мои личные исключения
+/src/main/java/com/vkr/mains/
+/src/main/java/com/vkr/io/
+/src/main/java/com/vkr/decision/
+/src/main/java/com/vkr/model/
+/src/main/java/com/vkr/utils/
+/src/main/java/com/vkr/mlp/dto/
+/src/main/java/com/vkr/mlp/EvaluationResult.java
+/src/main/java/com/vkr/mlp/PredictionInfo.java
+/src/main/java/com/vkr/som/SOMUtilities.java
+/src/main/java/com/vkr/som/SOMStatistics.java
+/src/main/java/com/vkr/som/SOMTrainer.java
+/src/main/java/com/vkr/som/SOMSampleAnalysis.java
