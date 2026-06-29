@@ -48,5 +48,4 @@ build/
 /src/main/java/com/vkr/mlp/PredictionInfo.java
 /src/main/java/com/vkr/som/SOMUtilities.java
 /src/main/java/com/vkr/som/SOMStatistics.java
-/src/main/java/com/vkr/som/SOMTrainer.java
 /src/main/java/com/vkr/som/SOMSampleAnalysis.java
